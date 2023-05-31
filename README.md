@@ -1,6 +1,8 @@
+## Fire Scratch: Google IoT for made easy
+
 Fire Scratch provides blocks which connect to Google Firebas.
 
-## The online version of fire Scratch launchable [here.](https://oliverfaust.github.io/)
+The online version of fire Scratch launchable [here.](https://oliverfaust.github.io/)
 
 ## Motor Pair Block
 Generate pulse width modulated signals on two raspberry-pi output pins.
