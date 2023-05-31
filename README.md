@@ -1,4 +1,4 @@
-## Fire Scratch: Google IoT for made easy
+## Fire Scratch: Google IoT made easy
 
 Fire Scratch provides blocks which connect to Google Firebas.
 
