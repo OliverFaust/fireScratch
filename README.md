@@ -1,6 +1,6 @@
 ## Fire Scratch: Google IoT made easy
 
-Fire Scratch provides blocks which connect to Google Firebas.
+Fire Scratch provides blocks which connect to Google Firebase.
 
 The online version of fire Scratch launchable [here.](https://oliverfaust.github.io/)
 
