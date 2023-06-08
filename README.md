@@ -1,10 +1,12 @@
 ## Fire Scratch: Google IoT made easy
 
-Fire Scratch extension for Scratch provides blocks which connect to Google Firebase.
-
-![](./Docs/fireScratch_image.png)
+The Fire Scratch extension for Scratch provides blocks which connect to Google Firebase.
 
 The online version of fire Scratch launchable [here.](https://oliverfaust.github.io/)
+
+To add the Fire Scratch extension to your project select:
+
+![](./Docs/fireScratch_image.png)
 
 ## Motor Pair Block
 Generate pulse width modulated signals on two raspberry-pi output pins.
