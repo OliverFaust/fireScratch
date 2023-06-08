@@ -1,6 +1,7 @@
 ## Fire Scratch: Google IoT made easy
 
 Fire Scratch extension for Scratch provides blocks which connect to Google Firebase.
+
 ![](./Docs/fireScratch_image.png)
 
 The online version of fire Scratch launchable [here.](https://oliverfaust.github.io/)
